@@ -1,0 +1,17 @@
+.input {
+  background-color: aquamarine;
+  color: rgb(0, 100, 60);
+  font-weight: 700;
+  padding: 15px 30px;
+  border:  none;
+  border-radius: 5px;
+}
+
+.input::placeholder {
+  color: rgb(40, 160, 120);
+  font-weight: 600;
+}
+
+.input:focus {
+  outline: rgb(40, 160, 120) solid 2px;
+}

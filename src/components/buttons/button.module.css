@@ -1,0 +1,21 @@
+.button {
+  background-color: cornflowerblue;
+  color: azure;
+  font-weight: 600;
+  border-radius: 5px;
+  padding: .3rem .6rem;
+  border: none;
+}
+
+.button:hover {
+  background-color: rgb(75, 124, 212);
+  
+}
+
+.button:active {
+  background-color: aquamarine;
+}
+
+.button:focus {
+  outline: rgb(75, 124, 212) solid 2px;
+}
