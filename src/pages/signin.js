@@ -64,7 +64,7 @@ export default function LoginPage() {
         <Button >Entrar</Button>
         </form>
         <label>
-          Ainda não possui <Link href="/signup" className={styles.link}>conta</Link>
+          Ainda não possui <Link href="/signup" className={styles.link} target="blank">conta</Link>
         ?</label>
       </LoginCard>
     </div>
