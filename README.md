@@ -11,15 +11,11 @@ Possui 3 páginas com um estilização simples e 3 telas para mostrar a possibil
 npm run dev
 ````
 
-
-<<<<<<< HEAD
 ## Como testar
 Abra o link de produção. Na tela de cadastro, clique na opção "não possui conta?". A tela abrirá uma nova abra. É proposital, na segunda aba, crie o cadastro e você será encaminhado para a tela de login. Utilizando a mesma segunda aba, preencha os campos e clique em entrar. Note que o seu token será armazenado como cookie.
 
 
 
 <span>
-=======
->>>>>>> f42302d09f53c3b5604a26a2ba4265f91be4b5e9
-<b>Atenção:</b> o sistema não utiliza um banco de dados para registrar o usuário, sendo assim, a maneira funcional para testa é mantendo a aba de login (signin) aberta enquanto cadastra em uma segunda aba o usuário para teste.
+<b>Atenção:</b> o sistema não utiliza um banco de dados para registrar o usuário, sendo assim, a maneira funcional para testar é mantendo a aba de login (signin) aberta enquanto cadastra em uma segunda aba o usuário para teste.
 
